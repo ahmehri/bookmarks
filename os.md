@@ -10,6 +10,10 @@ The leading `:` is the built-in [colon command](https://gerardnico.com/lang/bash
 
 If the parameter is not set or is null, the provided error after `?`, i.e `Required env variable APPLICATION_PACKAGE_NAME`, will be displayed. If the shell is not interactive, the script will exit. Otherwise, the value of the parameter is substituted, in this case the substituted value will be considered as a command resulting in `bash: <substituted value>: command not found` error. Having the leading `:` will [prevent](https://aplawrence.com/Basics/leading-colon.html) that error from happening.
 
+### `set -e`
+
+One of the usages of the `set` command is to [set shell options](https://bash.cyberciti.biz/guide/Setting_shell_options). The `e` [option](http://linuxcommand.org/lc3_man_pages/seth.html) here is for `Exit immediately if a command exits with a non-zero status.`
+
 ### Resources
 
 - [Bash Guide for Beginners](https://www.tldp.org/LDP/Bash-Beginners-Guide/html/index.html).
