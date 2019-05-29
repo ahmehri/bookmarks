@@ -2,6 +2,8 @@
 
 ## Scripting
 
+- [Make pwd result in terms of “~"](https://unix.stackexchange.com/questions/207210/make-pwd-result-in-terms-of).
+
 ### `: "${APPLICATION_PACKAGE_NAME?Required env variable APPLICATION_PACKAGE_NAME}"`
 
 The leading `:` is the built-in [colon command](https://gerardnico.com/lang/bash/double_point), it's used here to expand its arguments. The `${}` is [parameter expansion](https://gerardnico.com/lang/bash/parameter_expansion). The `"` are not needed and the command can be written as `: ${APPLICATION_PACKAGE_NAME?Required env variable APPLICATION_PACKAGE_NAME}`.
