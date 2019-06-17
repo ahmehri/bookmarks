@@ -1,4 +1,24 @@
 # Tools
 
-- [nodemon](https://github.com/remy/nodemon).
-- [rimraf](https://github.com/isaacs/rimraf).
+- [remy/nodemon](https://github.com/remy/nodemon)
+- [isaacs/rimraf](https://github.com/isaacs/rimraf)
+- [node-inspector/node-inspector](https://github.com/node-inspector/node-inspector)
+- [npm/node-semver](https://github.com/npm/node-semver)
+- [paulmillr/chokidar](https://github.com/paulmillr/chokidar)
+- [senchalabs/connect](https://github.com/senchalabs/connect)
+- [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
+- [nodejitsu/node-http-proxy](https://github.com/nodejitsu/node-http-proxy)
+- [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env)
+- [sass/node-sass](https://github.com/sass/node-sass)
+- [socketio/socket.io](https://github.com/socketio/socket.io/)
+- [senecajs/seneca](https://github.com/senecajs/seneca)
+- [LoopBack](https://loopback.io/)
+- [jasongin/nvs](https://github.com/jasongin/nvs)
+- [anodynos/upath](https://github.com/anodynos/upath)
+- [Automattic/mongoose](https://github.com/Automattic/mongoose)
+- [zeit/pkg](https://github.com/zeit/pkg)
+- [jakutis/require-text](https://github.com/jakutis/require-text)
+- [sindresorhus/meow](https://github.com/sindresorhus/meow)
+- [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer)
+- [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra)
+- [isaacs/node-graceful-fs](https://github.com/isaacs/node-graceful-fs)
