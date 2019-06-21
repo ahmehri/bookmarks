@@ -18,6 +18,7 @@
 
 # Resources
 
+- [Principled GraphQL](https://principledgraphql.com/)
 - [GraphQL Foundation](https://gql.foundation/)
 - [GraphQL Mastery](https://medium.com/graphql-mastery)
 - [GraphQL cheatsheet](https://devhints.io/graphql#schema)
