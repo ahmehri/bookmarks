@@ -27,6 +27,8 @@ Code First:
 - [TypeGraphQL](https://typegraphql.ml/)
 - [zalando-incubator/graphql-jit](https://github.com/zalando-incubator/graphql-jit)
 - [GraphQL Field Finder](https://gist.github.com/stubailo/7a2071c4e568a185726c583073695bc0)
+- [apollographql/graphql-tools](https://github.com/apollographql/graphql-tools)
+- [APIs-guru/graphql-faker](https://github.com/APIs-guru/graphql-faker)
 
 # Resources
 
