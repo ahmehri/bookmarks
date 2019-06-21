@@ -15,6 +15,7 @@
 - [Public GraphQL APIs](http://apis.guru/graphql-apis/)
 - [apollographql/graphql-tag](https://github.com/apollographql/graphql-tag)
 - [prisma/get-graphql-schema](https://github.com/prisma/get-graphql-schema)
+- [graphql-compose/graphql-compose](https://github.com/graphql-compose/graphql-compose)
 
 # Resources
 
