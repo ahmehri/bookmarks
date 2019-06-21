@@ -2,6 +2,9 @@
 
 ## Use Cases
 
+- [How to invalidate cached data in Apollo and handle updating paginated queries](https://medium.com/@martinseanhunt/how-to-invalidate-cached-data-in-apollo-and-handle-updating-paginated-queries-379e4b9e4698)
+- [👩🏻‍🍳 Render Props, Apollo and Formik: build and compose forms in React with ease 🏄🏾‍](https://techblog.commercetools.com/render-props-apollo-and-formik-build-and-compose-forms-in-react-with-ease-f79a594be239)
+
 SDL First:
 
 - [apollo-server](https://www.apollographql.com/docs/apollo-server/)
@@ -9,11 +12,6 @@ SDL First:
 Code First:
 
 - [prisma/nexus](https://github.com/prisma/nexus)
-
-
-- [How to invalidate cached data in Apollo and handle updating paginated queries](https://medium.com/@martinseanhunt/how-to-invalidate-cached-data-in-apollo-and-handle-updating-paginated-queries-379e4b9e4698)
-- [👩🏻‍🍳 Render Props, Apollo and Formik: build and compose forms in React with ease 🏄🏾‍](https://techblog.commercetools.com/render-props-apollo-and-formik-build-and-compose-forms-in-react-with-ease-f79a594be239)
-
 
 # Engines
 
