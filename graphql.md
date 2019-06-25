@@ -1,3 +1,35 @@
+# GraphQL
+
+## Use Cases
+
+- [A new approach to mocking GraphQL data](https://www.freecodecamp.org/news/a-new-approach-to-mocking-graphql-data-1ef49de3d491/)
+
+## Engines
+
+- [prisma/prisma](https://github.com/prisma/prisma)
+- [Hasura](https://hasura.io/)
+
+## Tools
+
+- [Public GraphQL APIs](http://apis.guru/graphql-apis/)
+- [apollographql/graphql-tag](https://github.com/apollographql/graphql-tag)
+- [prisma/get-graphql-schema](https://github.com/prisma/get-graphql-schema)
+- [graphql-compose/graphql-compose](https://github.com/graphql-compose/graphql-compose)
+- [TypeGraphQL](https://typegraphql.ml/)
+- [zalando-incubator/graphql-jit](https://github.com/zalando-incubator/graphql-jit)
+- [GraphQL Field Finder](https://gist.github.com/stubailo/7a2071c4e568a185726c583073695bc0)
+- [apollographql/graphql-tools](https://github.com/apollographql/graphql-tools)
+- [APIs-guru/graphql-faker](https://github.com/APIs-guru/graphql-faker)
+
+## Resources
+
+- [Principled GraphQL](https://principledgraphql.com/)
+- [GraphQL Foundation](https://gql.foundation/)
+- [GraphQL Mastery](https://medium.com/graphql-mastery)
+- [GraphQL cheatsheet](https://devhints.io/graphql#schema)
+- [How to GraphQL](https://www.howtographql.com/)
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql)
+
 # Apollo GraphQL
 
 ## Use Cases
@@ -12,29 +44,3 @@ SDL First:
 Code First:
 
 - [prisma/nexus](https://github.com/prisma/nexus)
-
-# Engines
-
-- [prisma/prisma](https://github.com/prisma/prisma)
-- [Hasura](https://hasura.io/)
-
-# Tools
-
-- [Public GraphQL APIs](http://apis.guru/graphql-apis/)
-- [apollographql/graphql-tag](https://github.com/apollographql/graphql-tag)
-- [prisma/get-graphql-schema](https://github.com/prisma/get-graphql-schema)
-- [graphql-compose/graphql-compose](https://github.com/graphql-compose/graphql-compose)
-- [TypeGraphQL](https://typegraphql.ml/)
-- [zalando-incubator/graphql-jit](https://github.com/zalando-incubator/graphql-jit)
-- [GraphQL Field Finder](https://gist.github.com/stubailo/7a2071c4e568a185726c583073695bc0)
-- [apollographql/graphql-tools](https://github.com/apollographql/graphql-tools)
-- [APIs-guru/graphql-faker](https://github.com/APIs-guru/graphql-faker)
-
-# Resources
-
-- [Principled GraphQL](https://principledgraphql.com/)
-- [GraphQL Foundation](https://gql.foundation/)
-- [GraphQL Mastery](https://medium.com/graphql-mastery)
-- [GraphQL cheatsheet](https://devhints.io/graphql#schema)
-- [How to GraphQL](https://www.howtographql.com/)
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql)
