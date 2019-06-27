@@ -28,6 +28,23 @@
 - [Rewriting history](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)
 - [Undo things](https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
 
+## Hooks
+
+- [typicode/husky](https://github.com/typicode/husky)
+- [observing/pre-commit](https://github.com/observing/pre-commit)
+- [okonet/lint-staged](https://github.com/okonet/lint-staged)
+- [Make linting great again](https://medium.com/@okonetchnikov/make-linting-great-again-f3890e1ad6b8)
+
+## Conventional commits
+
+- [conventional-changelog/conventionalcommits.org](https://github.com/conventional-changelog/conventionalcommits.org)
+- [commitizen/cz-cli](https://github.com/commitizen/cz-cli)
+- [commitizen/cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog)
+- [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog)
+- [marionebl/commitlint](https://github.com/marionebl/commitlint)
+- [Conventional commits](https://conventionalcommits.org/)
+- [Keep a changelog](https://keepachangelog.com/en/0.3.0/)
+
 # Tools
 
 - [jkup/pullit](https://github.com/jkup/pullit)
