@@ -20,6 +20,7 @@
 - [GraphQL Field Finder](https://gist.github.com/stubailo/7a2071c4e568a185726c583073695bc0)
 - [apollographql/graphql-tools](https://github.com/apollographql/graphql-tools)
 - [APIs-guru/graphql-faker](https://github.com/APIs-guru/graphql-faker)
+- [GraphQL Network chrome extension](https://chrome.google.com/webstore/detail/graphql-network/igbmhmnkobkjalekgiehijefpkdemocm/related?hl=en-GB)
 
 ## Resources
 
