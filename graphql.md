@@ -9,6 +9,20 @@
 - [prisma/prisma](https://github.com/prisma/prisma)
 - [Hasura](https://hasura.io/)
 
+## Compiling(Preprocessing) Queries
+
+The need for compilation comes to [avoid runtime overhead](https://www.apollographql.com/docs/react/recipes/babel/) caused by colocating the queries in js files. This is not an issue when the files are kep in separate `.graphql` or `.gql` files, but keep in mind that you still need to preprocess them either by using:
+
+- webpack `graphql-tag` [loader](https://github.com/apollographql/graphql-tag#webpack-preprocessing-with-graphql-tagloader)
+- babel plugin [babel-plugin-graphql-tag](https://github.com/gajus/babel-plugin-graphql-tag), which uses `graphql-tag` under the hood.
+
+In case you're locating the queries in js files, then you need to use either bable plugin or macro to do the compilation. The plugin is [babel-plugin-graphql-tag](https://github.com/gajus/babel-plugin-graphql-tag) and there are two macros:
+
+- [graphql-tag.macro](https://github.com/leoasis/graphql-tag.macro) as documented in apollog recipe.
+- [graphql.macro](https://github.com/evenchange4/graphql.macro) as documented in cra [guide](https://facebook.github.io/create-react-app/docs/loading-graphql-files).
+
+Using a macro is prefered because it requires less configuration and is more explicit as explained [here](https://www.apollographql.com/docs/react/recipes/babel/#using-graphql-tagmacro).
+
 ## Tools
 
 - [Public GraphQL APIs](http://apis.guru/graphql-apis/)
