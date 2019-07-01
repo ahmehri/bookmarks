@@ -12,7 +12,6 @@
 - [gitrevisions](https://git-scm.com/docs/gitrevisions)
 - [10 git antipatterns you should be aware of](https://speakerdeck.com/lemiorhan/10-git-anti-patterns-you-should-be-aware-of?slide=6)
 - [How to find out which branch tag is?](https://stackoverflow.com/questions/15806448/git-how-to-find-out-on-which-branch-tag-is)
-- [How to rebase your feature branch from one branch to another](https://makandracards.com/makandra/10173-git-how-to-rebase-your-feature-branch-from-one-branch-to-another)
 
 ## Pruning remote branches
 
@@ -23,6 +22,7 @@
 
 - [How to rebase a pr](https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request)
 - [git merge-base](https://git-scm.com/docs/git-merge-base)
+- [How to rebase your feature branch from one branch to another](https://makandracards.com/makandra/10173-git-how-to-rebase-your-feature-branch-from-one-branch-to-another)
 
 ## Rewriting things
 
