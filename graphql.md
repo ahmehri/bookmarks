@@ -4,12 +4,7 @@
 
 - [A new approach to mocking GraphQL data](https://www.freecodecamp.org/news/a-new-approach-to-mocking-graphql-data-1ef49de3d491/)
 
-## Engines
-
-- [prisma/prisma](https://github.com/prisma/prisma)
-- [Hasura](https://hasura.io/)
-
-## Compiling(Preprocessing) Queries
+### Compiling(Preprocessing) Queries
 
 The need for compilation comes to [avoid runtime overhead](https://www.apollographql.com/docs/react/recipes/babel/) caused by colocating the queries in js files. This is not an issue when the files are kept in separate `.graphql` or `.gql` files, but keep in mind that you still need to preprocess them either by using:
 
@@ -36,8 +31,15 @@ Using a macro is prefered because it requires less configuration and is more exp
 - [APIs-guru/graphql-faker](https://github.com/APIs-guru/graphql-faker)
 - [GraphQL Network chrome extension](https://chrome.google.com/webstore/detail/graphql-network/igbmhmnkobkjalekgiehijefpkdemocm/related?hl=en-GB)
 
+### Engines
+
+- [prisma/prisma](https://github.com/prisma/prisma)
+- [Hasura](https://hasura.io/)
+
+
 ## Resources
 
+- [graphql/graphql-spec](https://github.com/graphql/graphql-spec)
 - [Principled GraphQL](https://principledgraphql.com/)
 - [GraphQL Foundation](https://gql.foundation/)
 - [GraphQL Mastery](https://medium.com/graphql-mastery)
