@@ -3,6 +3,7 @@
 - [kentcdodds/react-testing-library-course](https://github.com/kentcdodds/react-testing-library-course)
 
 (OUTDATED, TODO: update)
+
 It's important to use all the tools marked in yellow in the following slide:
 ![](https://gist.github.com/ahmehri/3ee739bdb1bc17a8f16b732d1bc04b5a/raw/3cd237eac34f4ab46ce8d7b7b86a6261202ef460/test-pyramid.png)
 
