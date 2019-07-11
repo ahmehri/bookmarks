@@ -12,6 +12,7 @@
 - [gitrevisions](https://git-scm.com/docs/gitrevisions)
 - [10 git antipatterns you should be aware of](https://speakerdeck.com/lemiorhan/10-git-anti-patterns-you-should-be-aware-of?slide=6)
 - [How to find out which branch tag is?](https://stackoverflow.com/questions/15806448/git-how-to-find-out-on-which-branch-tag-is)
+- [Find out when a file has been added/deleted](https://www.shellhacks.com/git-particular-file-change-history/)
 
 ## Pruning remote branches
 
