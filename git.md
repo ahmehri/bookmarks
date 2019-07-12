@@ -24,6 +24,7 @@
 - [How to rebase a pr](https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request)
 - [git merge-base](https://git-scm.com/docs/git-merge-base)
 - [How to rebase your feature branch from one branch to another](https://makandracards.com/makandra/10173-git-how-to-rebase-your-feature-branch-from-one-branch-to-another)
+- [git find out which branch is based on](https://community.atlassian.com/t5/Bitbucket-questions/Knowing-from-which-branch-the-current-branch-was-created-from/qaq-p/570135)
 
 ## Rewriting things
 
