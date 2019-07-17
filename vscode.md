@@ -15,3 +15,4 @@ TODO:
 # Resources
 
 - [vscode can do that](https://vscodecandothat.com/)
+- [microsoft/vscode-recipes](https://github.com/microsoft/vscode-recipes)
