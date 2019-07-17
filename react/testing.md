@@ -1,6 +1,9 @@
 # Tools:
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library)
+- [testing-library/jest-dom](https://github.com/testing-library/jest-dom)
 - [kentcdodds/react-testing-library-course](https://github.com/kentcdodds/react-testing-library-course)
+
+---
 
 (OUTDATED, TODO: update)
 
