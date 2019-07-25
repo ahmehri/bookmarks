@@ -1,0 +1,3 @@
+- DefinitelyTyped
+  - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+  - [TypeSearch](https://microsoft.github.io/TypeSearch/)
