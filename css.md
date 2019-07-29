@@ -1,3 +1,12 @@
+# With React
+
+- https://gist.github.com/ahmehri/c814c5526256e66030288b45726d392a
+
+# General
+
+- https://www.smashingmagazine.com/2007/07/css-specificity-things-you-should-know/
+- https://www.ckl.io/blog/css-architecture-first-steps/
+
 # Flexbox
 
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
@@ -50,6 +59,7 @@
 - http://julian.io/some-things-you-may-think-about-postcss-and-you-might-be-wrong/
 - https://davidtheclark.com/its-time-for-everyone-to-learn-about-postcss/
 - https://webdesign.tutsplus.com/series/postcss-deep-dive--cms-889
+- https://medium.com/@ddprrt/deconfusing-pre-and-post-processing-d68e3bd078a3
 
 ### Tools
 
@@ -61,6 +71,8 @@
 
 # Tools
 
+- https://csstriggers.com/
+- https://cssdb.org/
 - http://jgthms.com/minireset.css/
 - https://linaria.now.sh/
 - https://cssrecipes.github.io/
