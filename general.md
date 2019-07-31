@@ -1,5 +1,9 @@
 - [AST Explorer](https://astexplorer.net/)
 
+# Passwords
+
+- https://onetimesecret.com/
+
 # Presentations / Slides
 
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js)
