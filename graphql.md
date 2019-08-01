@@ -30,6 +30,7 @@ Using a macro is prefered because it requires less configuration and is more exp
 - [apollographql/graphql-tools](https://github.com/apollographql/graphql-tools)
 - [APIs-guru/graphql-faker](https://github.com/APIs-guru/graphql-faker)
 - [GraphQL Network chrome extension](https://chrome.google.com/webstore/detail/graphql-network/igbmhmnkobkjalekgiehijefpkdemocm/related?hl=en-GB)
+- https://github.com/stylesuxx/graphql-custom-types
 
 ### Engines
 
