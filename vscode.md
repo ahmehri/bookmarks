@@ -3,6 +3,7 @@
 - Select next occurance keyboard shortcut: cmd + d
 - [Sync settings, extensions, etc.](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 - [Performance issues and how to troubleshoot them](https://github.com/Microsoft/vscode/wiki/Performance-Issues)
+- debug extension: follow the answer [here](https://stackoverflow.com/questions/51164279/how-to-debug-visual-studio-code-extensions) except that instead of opening the installed extension, get its code from github and open it in vscode, you will then will find the debug configurations ready to use.
 
 ## macos vscode code helper cpu 100
 
