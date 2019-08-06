@@ -3,6 +3,7 @@
 ## Use Cases
 
 - [A new approach to mocking GraphQL data](https://www.freecodecamp.org/news/a-new-approach-to-mocking-graphql-data-1ef49de3d491/)
+- https://blog.apollographql.com/explaining-graphql-connections-c48b7c3d6976
 
 ### Compiling(Preprocessing) Queries
 
