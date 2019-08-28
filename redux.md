@@ -1,8 +1,5 @@
 - [Using redux devtools in Production](https://medium.com/@zalmoxis/using-redux-devtools-in-production-4c5b56c5600f).
 
-# Action Creators, Reducers, Selectors
-https://gist.github.com/ahmehri/d24952f13e99c63a6f3dfc39b48c73a5
-
 # Don't Reduxify Everything
 * [Move UI State Into The Component](https://dev.bleacherreport.com/3-things-i-learned-about-working-with-data-in-redux-5fa0d5f89c8b).
 * https://github.com/reactjs/redux/issues/1287.
