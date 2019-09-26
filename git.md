@@ -14,6 +14,20 @@
 - [How to find out which branch tag is?](https://stackoverflow.com/questions/15806448/git-how-to-find-out-on-which-branch-tag-is)
 - [Find out when a file has been added/deleted](https://www.shellhacks.com/git-particular-file-change-history/)
 
+## diffing
+
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
+
+### How to beautifully render a diffing in browser
+
+You need first to get the diffing content correctly (with differences explicitly indicated with `-` and `+` signs). In order to do this, you need to use `git diff` command.
+
+Keep in mind though that copying the diff from the terminal won't contain the signs. In order to get them, use `pbcopy` command (pasteboard copy command on macos) as a pipe to copy the content with signs to the clipboard.
+
+`git diff | pbcopy`
+
+The last step is to use that content in markdown code using the `diff` type.
+
 ## Pruning remote branches
 
 - [A short story of pruning remote branches](http://www.jamessturtevant.com/posts/Pruning-remote-branches/)
@@ -86,7 +100,6 @@ The reason why the following doesn't work is because there is no starting point,
 # Tools
 
 - [jkup/pullit](https://github.com/jkup/pullit)
-- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
 - [nvie/gitflow](https://github.com/nvie/gitflow)
 
 # Resources
