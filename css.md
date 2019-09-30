@@ -1,7 +1,3 @@
-# With React
-
-- https://gist.github.com/ahmehri/c814c5526256e66030288b45726d392a
-
 # General
 
 - https://www.smashingmagazine.com/2007/07/css-specificity-things-you-should-know/
