@@ -39,6 +39,7 @@ The last step is to use that content in markdown code using the `diff` type.
 - [git merge-base](https://git-scm.com/docs/git-merge-base)
 - [How to rebase your feature branch from one branch to another](https://makandracards.com/makandra/10173-git-how-to-rebase-your-feature-branch-from-one-branch-to-another)
 - [git find out which branch is based on](https://community.atlassian.com/t5/Bitbucket-questions/Knowing-from-which-branch-the-current-branch-was-created-from/qaq-p/570135)
+- https://romanofskiat.wordpress.com/2015/05/12/git-moving-partial-changes-between-commits/
 
 ## Rewriting things
 
