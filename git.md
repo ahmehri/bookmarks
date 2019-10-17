@@ -17,6 +17,7 @@
 ## diffing
 
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
+- https://matthew-brett.github.io/pydagogue/git_diff_dots.html
 
 ### How to beautifully render a diffing in browser
 
