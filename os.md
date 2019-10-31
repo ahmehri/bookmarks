@@ -1,5 +1,7 @@
 # Shell
 
+- http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
+
 ## Scripting
 
 - [Make pwd result in terms of “~"](https://unix.stackexchange.com/questions/207210/make-pwd-result-in-terms-of).
