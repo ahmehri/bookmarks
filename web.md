@@ -42,6 +42,7 @@ Distributers
 
 # Resources
 
+- https://web.dev/
 - [illustrated.dev](https://illustrated.dev/)
 - https://trello.com/b/2eybzV89/whatwg-blog-backlog
 - https://blog.whatwg.org/
