@@ -1,8 +1,10 @@
 - https://hacks.mozilla.org/2017/05/quantum-up-close-what-is-a-browser-engine/
-
 - https://forum.vuejs.org/t/problems-setting-session-cookies/4717/3
 
 # Tools
+
+- http://caniuse.com/#home
+- https://screeps.com/
 
 **CORS**
 
@@ -46,6 +48,11 @@ Distributers
 - https://github.com/whatwg/html
 - https://github.com/whatwg/loader
 - https://whatwg.org/
+- https://discourse.wicg.io/
 - http://htmlreference.io/
 - http://diveintohtml5.info/index.html
 - https://www.toptal.com/designers/htmlarrows/
+- https://developers.google.com/
+- https://github.com/thedaviddias/Front-End-Checklist?imm_mid=0f76a7&cmp=em-web-na-na-newsltr_20171025
+- https://github.com/kamranahmedse/developer-roadmap
+- https://hacks.mozilla.org/
