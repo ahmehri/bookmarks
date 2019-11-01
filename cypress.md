@@ -1,5 +1,11 @@
 - https://glebbahmutov.com/blog/mock-graphql-with-lunar-in-cypress-tests/
 
+**Tools**
+
+- https://github.com/bahmutov/as-a
+
+----
+
 # Testing Strategies
 
 ## [Data Seeding Strategy](https://docs.cypress.io/guides/getting-started/testing-your-app.html#Seeding-Data)
