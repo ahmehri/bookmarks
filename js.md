@@ -1,3 +1,5 @@
+- [How to monitor function creation](https://nikgrozev.com/2019/04/07/reacts-usecallback-and-usememo-hooks-by-example/)
+
 **Purist**
 
 - http://blog.cleancoder.com/uncle-bob/2016/05/01/TypeWars.html
