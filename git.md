@@ -1,5 +1,6 @@
 # Use Cases
 
+- https://git-scm.com/docs/gitrevisions
 - [Merging vs Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing/)
 - [Interactive staging](https://git-scm.com/book/en/v2/Git-Tools-Interactive-Staging#_interactive_staging)
 - [The Refspec](https://git-scm.com/book/en/v2/Git-Internals-The-Refspec#_refspec)
