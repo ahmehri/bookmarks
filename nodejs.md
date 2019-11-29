@@ -1,4 +1,4 @@
-# Tools
+**Tools**
 
 - [remy/nodemon](https://github.com/remy/nodemon)
 - [isaacs/rimraf](https://github.com/isaacs/rimraf)
@@ -22,3 +22,4 @@
 - [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer)
 - [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra)
 - [isaacs/node-graceful-fs](https://github.com/isaacs/node-graceful-fs)
+- https://github.com/mikeal/watch
