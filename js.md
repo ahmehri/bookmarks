@@ -1,5 +1,22 @@
 - [How to monitor function creation](https://nikgrozev.com/2019/04/07/reacts-usecallback-and-usememo-hooks-by-example/)
 
+**Shadowing**
+
+I was wrong, shadowing doesn't have to do with whether we're using `var` or `const`/`let`. Shadowing will occur in both cases and it will result in [two problems](https://eslint.org/docs/rules/no-shadow#top)
+
+> This can cause confusion while reading the code and it's impossible to access the global variable.
+
+It's bad to make the global variable inaccessible, but it's not a big deal. In the end, if we will need to access the global variable (which is very rare but who knows), we will just have to rename the local variable.
+
+And again, it's not as bad as causing confusion while reading the code. The fact that the reader will ask the question, "Is this the local variable being referenced here, or is it the global one?" is a mental burden that we can avoid by ensuring variable names uniqueness. This means that the following is the way to go, in addition to not have to add `/* eslint-disable no-shadow */` anymore.
+
+```js
+  const [key, setKey] = useState(0);
+  useEffect(() => {
+    setKey(k => k + 1);
+  }, [dataLocale]);
+```
+
 **Purist**
 
 - http://blog.cleancoder.com/uncle-bob/2016/05/01/TypeWars.html
