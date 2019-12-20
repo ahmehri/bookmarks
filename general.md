@@ -2,6 +2,7 @@
 - http://scribesalley.blogspot.com/2008/08/difference-between-critique-and.html
 - https://archive.uie.com/brainsparks/2011/10/27/moving-from-critical-review-to-critique/
 - https://github.com/nice-boys/product-boilerplate
+- http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions
 
 **Passwords**
 
