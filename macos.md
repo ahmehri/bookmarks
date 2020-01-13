@@ -1,0 +1,1 @@
+- https://github.com/nodejs/node-gyp/blob/master/macOS_Catalina.md
