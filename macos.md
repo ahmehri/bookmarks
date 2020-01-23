@@ -1,1 +1,2 @@
 - https://github.com/nodejs/node-gyp/blob/master/macOS_Catalina.md
+- https://apple.stackexchange.com/questions/136672/how-do-i-require-password-prompt-every-time-i-close-my-macbooks-lid
