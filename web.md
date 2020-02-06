@@ -40,6 +40,10 @@ Distributers
 - https://octicons.github.com/
 - https://icomoon.io/
 
+**CLI**
+
+- https://github.com/jakubroztocil/httpie
+
 # Resources
 
 - https://web.dev/
