@@ -5,3 +5,7 @@
 **Apps**
 
 - https://www.alfredapp.com/
+
+**Commands**
+
+- https://osxdaily.com/2010/08/22/install-watch-command-on-os-x/
