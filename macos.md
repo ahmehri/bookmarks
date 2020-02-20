@@ -5,6 +5,7 @@
 **Apps**
 
 - https://www.alfredapp.com/
+- https://contexts.co/
 
 **Commands**
 
