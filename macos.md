@@ -6,6 +6,7 @@
 
 - https://www.alfredapp.com/
 - https://contexts.co/
+- https://gpgtools.org/
 
 **Commands**
 
