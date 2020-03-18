@@ -38,6 +38,7 @@ And again, it's not as bad as causing confusion while reading the code. The fact
 
 Fake data generators
 
+- https://github.com/rosiejs/rosie
 - https://github.com/marak/Faker.js/
 - https://github.com/boo1ean/casual
 - https://github.com/chancejs/chancejs
