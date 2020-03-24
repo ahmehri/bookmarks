@@ -8,6 +8,7 @@
 - https://contexts.co/
 - https://gpgtools.org/
 - https://awaremac.com/
+- https://muzzleapp.com/
 
 **Commands**
 
