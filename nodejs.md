@@ -1,6 +1,25 @@
 **How to avoid hoisting when requiring a module**
 
-It's not hoisting but caching, and this is a feature of Node.js that cannot be avoided.
+It's not hoisting but caching, and this is a feature of Node.js that cannot be avoided. It's not even related to import/export or babel.
+
+```js
+// file.js
+console.log("I am being imported");
+
+// factory.js
+module.exports = () => {
+  require("./file");
+};
+
+// index.js
+const factory = require("./factory");
+
+factory();
+factory();
+
+// result: 1 single log instead of 2
+I am being imported
+```
 
 > Caching
 >
@@ -9,6 +28,32 @@ It's not hoisting but caching, and this is a feature of Node.js that cannot be a
 >Provided require.cache is not modified, multiple calls to require('foo') will not cause the module code to be executed multiple times. This is an important feature. With it, "partially done" objects can be returned, thus allowing transitive dependencies to be loaded even when they would cause cycles.
 >
 >To have a module execute code multiple times, export a function, and call that function.
+
+As mentioned, the solution is to export a function and call it.
+
+```js
+// file.js
+module.exports = () => { console.log("I am being imported"); }
+
+// factory.js
+module.exports = () => {
+  require("./file")();
+};
+
+// index.js
+const factory = require("./factory");
+
+factory();
+factory();
+
+// result: 2 logs
+I am being imported
+I am being imported
+```
+
+Resources:
+
+- https://nodejs.org/api/modules.html#modules_caching
 
 **Terminal**
 
