@@ -1,22 +1,22 @@
 - https://hacks.mozilla.org/2017/05/quantum-up-close-what-is-a-browser-engine/
 - https://forum.vuejs.org/t/problems-setting-session-cookies/4717/3
 
-# Tools
+**Tools**
 
 - http://caniuse.com/#home
 - https://screeps.com/
 
-**Servers**
+Servers
 
 - https://github.com/zeit/serve
 
-**CORS**
+CORS
 
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
 - https://www.html5rocks.com/en/tutorials/cors/
 - https://enable-cors.org/server.html
 
-**Fonts**
+Fonts
 
 - https://www.cssfontstack.com/
 
@@ -37,18 +37,22 @@ Distributers
 - https://typekit.com/
 - https://www.typography.com/cloud/welcome/
 
-**Icons**
+Icons
 
 - https://github.com/FortAwesome/Font-Awesome
 - https://glyphicons.com/
 - https://octicons.github.com/
 - https://icomoon.io/
 
-**CLI**
+CLI
 
 - https://github.com/jakubroztocil/httpie
 
-# Resources
+**Performance**
+
+- https://blog.cloudflare.com/ttfb-time-to-first-byte-considered-meaningles/
+
+**Resources**
 
 - https://web.dev/
 - [illustrated.dev](https://illustrated.dev/)
