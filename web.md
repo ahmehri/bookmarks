@@ -4,6 +4,7 @@
 **Performance**
 
 - https://blog.cloudflare.com/ttfb-time-to-first-byte-considered-meaningles/
+- https://web.dev/long-tasks-devtools/
 
 **Tools**
 
