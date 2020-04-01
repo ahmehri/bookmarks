@@ -1,11 +1,14 @@
-# Use Cases
-
 - [React Components, Elements, and Instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca)
 - [Typeching with PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
 - [How to use Webpack’s new “magic comment” feature with React Universal Component + SSR](https://medium.com/faceyspacey/how-to-use-webpacks-new-magic-comment-feature-with-react-universal-component-ssr-a38fd3e296a)
 - [Behind the Scenes: Improving the Repository Infrastructure](https://reactjs.org/blog/2017/12/15/improving-the-repository-infrastructure.html)
 - [Controlled and uncontrolled form inputs in React don't have to be complicated](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
 - https://github.com/acdlite/react-fiber-architecture
+
+**Performance**
+
+- https://reactjs.org/docs/optimizing-performance.html
+- https://calibreapp.com/blog/react-performance-profiling-optimization
 
 **Lifecycle**
 
@@ -51,11 +54,11 @@
 
 - [React Hooks and Suspense](https://egghead.io/playlists/react-hooks-and-suspense-650307f2).
 
-# Tools
+**Tools**
 
 - [teambit/bit](https://github.com/teambit/bit)
 
-**devtools**
+devtools
 
 - [facebook/react-devtools](https://github.com/facebook/react-devtools)
 - [bvaughn/react-devtools-experimental](https://github.com/bvaughn/react-devtools-experimental)
