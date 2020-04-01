@@ -1,6 +1,10 @@
 - https://hacks.mozilla.org/2017/05/quantum-up-close-what-is-a-browser-engine/
 - https://forum.vuejs.org/t/problems-setting-session-cookies/4717/3
 
+**Performance**
+
+- https://blog.cloudflare.com/ttfb-time-to-first-byte-considered-meaningles/
+
 **Tools**
 
 - http://caniuse.com/#home
@@ -47,10 +51,6 @@ Icons
 CLI
 
 - https://github.com/jakubroztocil/httpie
-
-**Performance**
-
-- https://blog.cloudflare.com/ttfb-time-to-first-byte-considered-meaningles/
 
 **Resources**
 
