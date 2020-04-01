@@ -5,10 +5,23 @@
 - [Controlled and uncontrolled form inputs in React don't have to be complicated](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
 - https://github.com/acdlite/react-fiber-architecture
 
-**Performance**
+
+# Performance
 
 - https://reactjs.org/docs/optimizing-performance.html
 - https://calibreapp.com/blog/react-performance-profiling-optimization
+
+**(Committing Changes) Warning: Lifecycle hook scheduled a cascading update**
+
+What it means.
+
+>It means what it says: you scheduled a cascading update. "Cascading" means an update inside an update. React first reconciles the tree by calling render, then commits DOM changes, then calls lifecycle hooks. If you call setState in componentDidMount, you are causing React to repeat the cycle: reconcile the tree, commit DOM changes, and call the hooks. This is wasteful.
+
+Resources
+
+- https://github.com/reduxjs/react-redux/issues/834
+
+---
 
 **Lifecycle**
 
