@@ -1,4 +1,6 @@
-# Shell
+# Commands
+
+# Scripts
 
 - http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
 - [Make pwd result in terms of “~"](https://unix.stackexchange.com/questions/207210/make-pwd-result-in-terms-of).
@@ -16,7 +18,6 @@ One of the usages of the `set` command is to [set shell options](https://bash.cy
 **Tools**
 
 - [shellcheck](https://github.com/koalaman/shellcheck).
-- https://github.com/rupa/z
 
 **Resources**
 
