@@ -1,3 +1,5 @@
+- https://github.com/ohmyzsh/ohmyzsh
+
 # Terminology
 
 - https://en.wikibooks.org/wiki/Guide_to_Unix/Explanations/Shell_Prompt
