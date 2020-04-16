@@ -1,3 +1,7 @@
+# ohmyzsh
+
+- https://www.stevenrombauts.be/2018/04/disable-git-prompt-in-oh-my-zsh/
+
 # Terminology
 
 - https://en.wikibooks.org/wiki/Guide_to_Unix/Explanations/Shell_Prompt
