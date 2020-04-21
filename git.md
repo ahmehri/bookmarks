@@ -60,6 +60,7 @@ The reason why the following doesn't work is because there is no starting point,
 - [10 git antipatterns you should be aware of](https://speakerdeck.com/lemiorhan/10-git-anti-patterns-you-should-be-aware-of?slide=6)
 - [How to find out which branch tag is?](https://stackoverflow.com/questions/15806448/git-how-to-find-out-on-which-branch-tag-is)
 - [Find out when a file has been added/deleted](https://www.shellhacks.com/git-particular-file-change-history/)
+- https://koukia.ca/how-to-remove-local-untracked-files-from-the-current-git-branch-571c6ce9b6b1
 
 **Pruning remote branches**
 
