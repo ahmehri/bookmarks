@@ -84,3 +84,9 @@ Resources:
 - [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra)
 - [isaacs/node-graceful-fs](https://github.com/isaacs/node-graceful-fs)
 - https://github.com/mikeal/watch
+
+Version manager
+
+- https://github.com/nvm-sh/nvm/blob/master/README.md
+- https://github.com/tj/n
+- https://github.com/Schniz/fnm
