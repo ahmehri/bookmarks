@@ -62,6 +62,7 @@ The reason why the following doesn't work is because there is no starting point,
 - [Find out when a file has been added/deleted](https://www.shellhacks.com/git-particular-file-change-history/)
 - https://koukia.ca/how-to-remove-local-untracked-files-from-the-current-git-branch-571c6ce9b6b1
 - [git diverged get remote](https://gist.github.com/scmx/f0cf283f33e5e1ac83946453461b9ff2)
+- https://www.atlassian.com/blog/git/advanced-git-aliases
 
 **Pruning remote branches**
 
