@@ -70,3 +70,4 @@ CLI
 - https://github.com/thedaviddias/Front-End-Checklist?imm_mid=0f76a7&cmp=em-web-na-na-newsltr_20171025
 - https://github.com/kamranahmedse/developer-roadmap
 - https://hacks.mozilla.org/
+- https://css-tricks.com/front-end-challenges/
