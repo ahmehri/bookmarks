@@ -5,7 +5,9 @@ This is an [important policy](https://www.apollographql.com/docs/react/api/react
 In order to be able to use cache-and-network policy effeciently, the following pattern should be used instead.
 
 ```diff
-const { loading, data } = useQuery();
+const { loading, data } = useQuery(MyQuery, {
+  fetchPolicy: 'cache-and-network',
+});
 
 -if(loading) {
 +if(loading && !data) {
