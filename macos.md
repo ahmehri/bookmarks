@@ -10,6 +10,7 @@
 - https://gpgtools.org/
 - https://awaremac.com/
 - https://muzzleapp.com/
+- https://highlyopinionated.co/swish/
 
 **Commands**
 
