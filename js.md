@@ -1,3 +1,7 @@
+- https://1loc.dev/
+
+---
+
 - [How to monitor function creation](https://nikgrozev.com/2019/04/07/reacts-usecallback-and-usememo-hooks-by-example/)
 
 **Shadowing**
