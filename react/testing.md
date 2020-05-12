@@ -1,3 +1,5 @@
+- https://kentcdodds.com/blog/write-fewer-longer-tests
+
 # Tools:
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library)
 - [testing-library/jest-dom](https://github.com/testing-library/jest-dom)
