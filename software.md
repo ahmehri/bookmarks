@@ -21,3 +21,7 @@
 
 - [phw/peek](https://github.com/phw/peek)
 - [wulkano/kap](https://github.com/wulkano/kap)
+
+**Resources**
+
+- https://medium.com/packt-hub
