@@ -1,4 +1,5 @@
 - https://kentcdodds.com/blog/write-fewer-longer-tests
+- https://kentcdodds.com/blog/common-mistakes-with-react-testing-library
 
 # Tools:
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library)
