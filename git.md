@@ -1,3 +1,9 @@
+# Ignore files that haven't been managed by git yet locally
+
+Add them in `.git/info/exclude` file. To list such files, simply check the content of the file.
+
+`git update-index --skip-worktree <file>` is for the files which are already managed by git.
+
 # Diffing
 
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
