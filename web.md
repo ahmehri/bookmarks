@@ -1,6 +1,11 @@
 - https://hacks.mozilla.org/2017/05/quantum-up-close-what-is-a-browser-engine/
 - https://forum.vuejs.org/t/problems-setting-session-cookies/4717/3
 
+**jamstack**
+
+- https://jamstack.org/
+- https://redwoodjs.com/
+
 **Performance**
 
 - https://blog.cloudflare.com/ttfb-time-to-first-byte-considered-meaningles/
