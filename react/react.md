@@ -27,8 +27,6 @@ Resources
 **Lifecycle**
 
 - [Lifecycle diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
-- [Lifecycle simulators](https://reactarmory.com/resources/lifecycle-simulators)
-- [Understanding React — Component life-cycle](https://medium.com/@baphemot/understanding-reactjs-component-life-cycle-823a640b3e8d)
 
 **Props Vs State**
 
