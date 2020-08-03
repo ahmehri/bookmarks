@@ -12,6 +12,7 @@
 - https://awaremac.com/
 - https://muzzleapp.com/
 - https://highlyopinionated.co/swish/
+- https://github.com/leits/MeetingBar
 
 **Commands**
 
