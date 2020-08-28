@@ -1,6 +1,7 @@
 # ohmyzsh
 
 - https://www.stevenrombauts.be/2018/04/disable-git-prompt-in-oh-my-zsh/
+- [Tab completion](https://medium.com/@herryhan2435/using-aws-cli-with-fzf-on-ohmyzsh-ec995ee3784f)
 
 # Terminology
 
