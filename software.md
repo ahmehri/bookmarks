@@ -11,6 +11,7 @@
 - https://chrome.google.com/webstore/detail/google-meet-grid-view/kklailfgofogmmdlhgmjgenehkjoioip
 - https://chrome.google.com/webstore/detail/nod-reactions-for-google/oikgofeboedgfkaacpfepbfmgdalabej
 - https://chrome.google.com/webstore/detail/markdown-to-jira/jjmmhbaklhogjgcccbmhfllhmfdamagg?hl=en
+- https://github.com/sindresorhus/notifier-for-github
 
 **Passwords**
 
