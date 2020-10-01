@@ -4,6 +4,7 @@
 - debug extension: follow the answer [here](https://stackoverflow.com/questions/51164279/how-to-debug-visual-studio-code-extensions) except that instead of opening the installed extension, get its code from github and open it in vscode, you will then will find the debug configurations ready to use.
 - [native tabs](https://worthdoingbadly.com/vscodetabs/)
 - [Visual Studio Code tips and tricks](https://channel9.msdn.com/Events/Build/2020/BOD103?ocid=AID3012654&WT.mc_id=build2020-azuredevtips-micrum)
+- ["electron_node server.js" high cpu usage](https://github.com/microsoft/vscode/issues/88854)
 
 **Automatic Type Acquisition**
 
