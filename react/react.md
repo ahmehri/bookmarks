@@ -7,7 +7,7 @@
 - https://github.com/typescript-cheatsheets/react-typescript-cheatsheet?utm_campaign=React%2BNewsletter&utm_medium=web&utm_source=React_Newsletter_216
 
 
-# Performance
+**Performance**
 
 - https://reactjs.org/docs/optimizing-performance.html
 - https://calibreapp.com/blog/react-performance-profiling-optimization
@@ -65,6 +65,7 @@ Resources
 **Hooks**
 
 - [React Hooks and Suspense](https://egghead.io/playlists/react-hooks-and-suspense-650307f2).
+- https://github.com/donavon/hook-flow
 
 **Tools**
 
