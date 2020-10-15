@@ -22,6 +22,7 @@
 
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js)
 - [slides](https://slides.com/)
+- https://github.com/jxnblk/mdx-deck
 
 **Screen Recording**
 
