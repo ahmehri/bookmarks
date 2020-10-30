@@ -13,7 +13,7 @@
 - https://muzzleapp.com/
 - https://highlyopinionated.co/swish/
 - https://github.com/leits/MeetingBar
-- [API tool/HTTP client](https://paw.cloud/)
+- API tool/HTTP client: https://paw.cloud/
 
 **Commands**
 
