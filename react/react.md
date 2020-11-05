@@ -6,6 +6,29 @@
 - https://github.com/acdlite/react-fiber-architecture
 - https://github.com/typescript-cheatsheets/react-typescript-cheatsheet?utm_campaign=React%2BNewsletter&utm_medium=web&utm_source=React_Newsletter_216
 
+**Updating state in render**
+
+This should not be done for two reasons.
+
+1. It will result in an infinite loop, the first call to update the sate will result in a rerender, which will result in updating the sate again and so on.
+2. The render function should be pure, which means that it should not contain any side effects.
+
+Reason 1. can be avoided by conditionally updating the state, which leaves us reason 2. To keep the render function pure, updating the state should be done in either a callback or an effect. Otherwise, the rendering will become kind of unpredictable and it may also be a blocker for concurrent rendering.
+
+This being said, there is this particular case where the React team recommends a way to [implement `getDerivedSateFromProps` when converting a component to a functional one](https://reactjs.org/docs/hooks-faq.html#how-do-i-implement-getderivedstatefromprops). The recommendation is to update the state right during rendering, while doing it conditionally of course to avoid the infinite loop. What I still didnt get is why they didn't recommend to do it using an effect?
+
+```js
+function ScrollView({ row }) {
+  const [isScrollingDown, setIsScrollingDown] = useState(false);
+
+  useEffect(() => {
+    // Row changed since last render. Update isScrollingDown.
+    setIsScrollingDown(prevRow !== null && row > prevRow);
+  }, [row]);
+
+  return `Scrolling down: ${isScrollingDown}`;
+}
+```
 
 **Performance**
 
