@@ -57,22 +57,8 @@ Resources
 - [Why are underscore prefixes for internal methods of a React component considered bad?](https://github.com/airbnb/javascript/issues/1024)
 - [Underscore prefixes for "private" properties](https://github.com/airbnb/javascript/issues/490)
 
-**i18n**
-
-- [react-intl](https://github.com/formatjs/react-intl).
-- [react-i18next](https://github.com/i18next/react-i18next).
-
-**Hooks**
-
-- [React Hooks and Suspense](https://egghead.io/playlists/react-hooks-and-suspense-650307f2).
-- https://github.com/donavon/hook-flow
-
 **Tools**
 
 - [teambit/bit](https://github.com/teambit/bit)
 - Creating CLIs using React: https://github.com/vadimdemedes/ink
-
-devtools
-
 - [facebook/react-devtools](https://github.com/facebook/react-devtools)
-- [bvaughn/react-devtools-experimental](https://github.com/bvaughn/react-devtools-experimental)
