@@ -1,4 +1,5 @@
 - https://1loc.dev/
+- JS operator lookup: https://joshwcomeau.com/operator-lookup/
 
 ---
 
