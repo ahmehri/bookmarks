@@ -7,8 +7,6 @@
 
 - https://en.wikibooks.org/wiki/Guide_to_Unix/Explanations/Shell_Prompt
 
-# Commands
-
 # Scripts
 
 - http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
@@ -24,12 +22,19 @@ If the parameter is not set or is null, the provided error after `?`, i.e `Requi
 
 One of the usages of the `set` command is to [set shell options](https://bash.cyberciti.biz/guide/Setting_shell_options). The `e` [option](http://linuxcommand.org/lc3_man_pages/seth.html) here is for `Exit immediately if a command exits with a non-zero status.`
 
-**Tools**
+# Tools
 
+- Terminal for macos: https://iterm2.com/
 - https://github.com/ohmyzsh/ohmyzsh
 - [shellcheck](https://github.com/koalaman/shellcheck).
 
-**Resources**
+## iterm2
+
+**Trackpad scroll down**
+
+Set `Settings -> Advanced -> Scroll wheel sends arrow keys when in alternate screen mode` to `Yes`. However this works for only `less` command and others (maybe?) but not `git diff`. `diff-so-fancy` is not the cause. I disabled it and set the pager to be `less` and the result remained the same.
+
+# Resources
 
 - [Bash Guide for Beginners](https://www.tldp.org/LDP/Bash-Beginners-Guide/html/index.html).
 - [Advanced Bash-Scripting Guide](https://www.tldp.org/LDP/abs/html/index.html).
