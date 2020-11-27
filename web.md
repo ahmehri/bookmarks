@@ -1,5 +1,6 @@
 - https://hacks.mozilla.org/2017/05/quantum-up-close-what-is-a-browser-engine/
 - https://forum.vuejs.org/t/problems-setting-session-cookies/4717/3
+- The front vs back of the frontend: https://bradfrost.com/blog/post/frontend-design-react-and-a-bridge-over-the-great-divide/
 
 **jamstack**
 
