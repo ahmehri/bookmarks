@@ -101,7 +101,7 @@ The reason why the following doesn't work is because there is no starting point,
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli)
 - [commitizen/cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog)
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog)
-- [marionebl/commitlint](https://github.com/marionebl/commitlint)
+- [Lint commit messages](https://github.com/marionebl/commitlint)
 - [Conventional commits](https://conventionalcommits.org/)
 - [Keep a changelog](https://keepachangelog.com/en/0.3.0/)
 
