@@ -5,6 +5,7 @@
 - http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions
 - https://github.com/rupa/z
 - https://www.lifewire.com/how-to-make-gmail-unread-count-more-visible-in-tabs-1171995
+- [Aweome mental health](https://dreamingechoes.github.io/awesome-mental-health/) (Mental health)
 
 **Chrome extensions**
 
