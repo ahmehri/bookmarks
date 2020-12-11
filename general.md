@@ -9,7 +9,7 @@
 
 **Apps**
 
-- [Write and publish twitter threads](https://typefully.app/)
+- Write and publish twitter threads: https://typefully.app/
 
 **Chrome extensions**
 
