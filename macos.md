@@ -3,6 +3,7 @@
 - https://support.apple.com/lt-lt/guide/mac-help/mchlp2322/mac
 - [avoid moving desktop to another position](https://osxdaily.com/2011/11/12/stop-spaces-rearranging-mac-os-x/)
 - https://filipmolcik.com/macbook-wifi-issue-os-x-keeps-reconnecting/
+- [Is Apple silicon ready](https://isapplesiliconready.com/)
 
 # Apps
 
