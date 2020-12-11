@@ -7,6 +7,10 @@
 - https://www.lifewire.com/how-to-make-gmail-unread-count-more-visible-in-tabs-1171995
 - [Aweome mental health](https://dreamingechoes.github.io/awesome-mental-health/) (Mental health)
 
+**Apps**
+
+- [Write and publish twitter threads](https://typefully.app/)
+
 **Chrome extensions**
 
 - https://chrome.google.com/webstore/detail/google-meet-grid-view/kklailfgofogmmdlhgmjgenehkjoioip
