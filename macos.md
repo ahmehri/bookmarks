@@ -4,6 +4,7 @@
 - [avoid moving desktop to another position](https://osxdaily.com/2011/11/12/stop-spaces-rearranging-mac-os-x/)
 - https://filipmolcik.com/macbook-wifi-issue-os-x-keeps-reconnecting/
 - [Is Apple silicon ready](https://isapplesiliconready.com/)
+- https://mattbanderson.com/so-you-hosed-your-mac-os-python-install/ (python, python3)
 
 # Apps
 
