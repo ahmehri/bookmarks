@@ -1,9 +1,8 @@
 # GraphQL
 
-## Use Cases
-
 - [A new approach to mocking GraphQL data](https://www.freecodecamp.org/news/a-new-approach-to-mocking-graphql-data-1ef49de3d491/)
 - https://blog.apollographql.com/explaining-graphql-connections-c48b7c3d6976
+- [Batching Client GraphQL Queries](https://www.apollographql.com/blog/batching-client-graphql-queries-a685f5bcd41b/)
 
 ### Compiling(Preprocessing) Queries
 
