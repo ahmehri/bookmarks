@@ -31,6 +31,7 @@ Using a macro is prefered because it requires less configuration and is more exp
 - [APIs-guru/graphql-faker](https://github.com/APIs-guru/graphql-faker)
 - [GraphQL Network chrome extension](https://chrome.google.com/webstore/detail/graphql-network/igbmhmnkobkjalekgiehijefpkdemocm/related?hl=en-GB)
 - https://github.com/stylesuxx/graphql-custom-types
+- [graphql-inspector](https://chrome.google.com/webstore/detail/graphql-inspector/jdkgbhpcefadmffbaamaipfhpecbedao) chrome extension
 
 ### Engines
 
