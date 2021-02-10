@@ -1,3 +1,5 @@
+- [One second to read GitHub code with VS Code](https://github.com/conwnet/github1s)
+
 # Ignore files that haven't been managed by git yet locally
 
 Add them in `.git/info/exclude` file. To list such files, simply check the content of the file.
