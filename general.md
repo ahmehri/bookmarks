@@ -8,6 +8,10 @@
 - [Aweome mental health](https://dreamingechoes.github.io/awesome-mental-health/) (Mental health)
 - [Free For Developers](https://free-for.dev/#/)
 
+**Modelling**
+
+- [Sequence Diagram](https://sequencediagram.org/)
+
 **Apps**
 
 - Write and publish twitter threads: https://typefully.app/
