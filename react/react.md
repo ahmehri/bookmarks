@@ -6,6 +6,11 @@
 - https://github.com/acdlite/react-fiber-architecture
 - https://github.com/typescript-cheatsheets/react-typescript-cheatsheet?utm_campaign=React%2BNewsletter&utm_medium=web&utm_source=React_Newsletter_216
 
+**Forms**
+
+- [Formik](https://formik.org/)
+- [Browser extension for debugging Formik state](https://github.com/petrenkoVitaliy/formik-devtools)
+
 **Updating state in render**
 
 This should not be done for two reasons.
