@@ -38,6 +38,8 @@
 
 **Screen Recording**
 
+- Currently using: [CleanShot X](https://cleanshot.com/)
+- [CleanShot X](https://cleanshot.com/)
 - [phw/peek](https://github.com/phw/peek)
 - [wulkano/kap](https://github.com/wulkano/kap)
 
