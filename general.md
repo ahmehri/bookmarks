@@ -44,6 +44,10 @@
 - [phw/peek](https://github.com/phw/peek)
 - [wulkano/kap](https://github.com/wulkano/kap)
 
+**Writing**
+
+- [The easiest way to create a README](https://readme.so/)
+
 **Resources**
 
 - https://medium.com/packt-hub
