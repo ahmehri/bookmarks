@@ -11,6 +11,7 @@
 
 - http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
 - [Make pwd result in terms of “~"](https://unix.stackexchange.com/questions/207210/make-pwd-result-in-terms-of).
+- [A tool for writing better scripts](https://github.com/google/zx)
 
 **`: "${APPLICATION_PACKAGE_NAME?Required env variable APPLICATION_PACKAGE_NAME}"`**
 
