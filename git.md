@@ -20,6 +20,7 @@
 **Github**
 
 - [Run your GitHub Actions locally](https://github.com/nektos/act)
+- [The command palette for GitHub](https://jumpcat.dev/)
 
 **Pruning remote branches**
 
