@@ -15,6 +15,7 @@
 - [Controlled and uncontrolled form inputs in React don't have to be complicated](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
 - https://github.com/acdlite/react-fiber-architecture
 - https://github.com/typescript-cheatsheets/react-typescript-cheatsheet?utm_campaign=React%2BNewsletter&utm_medium=web&utm_source=React_Newsletter_216
+- [A flowchart that explains the new lifecycle of a Hooks component](https://github.com/donavon/hook-flow)
 
 **Forms**
 
