@@ -9,6 +9,10 @@
 - https://github.com/typescript-cheatsheets/react-typescript-cheatsheet?utm_campaign=React%2BNewsletter&utm_medium=web&utm_source=React_Newsletter_216
 - [A flowchart that explains the new lifecycle of a Hooks component](https://github.com/donavon/hook-flow)
 
+# State Management
+
+- [Why is `setState` (also `useState`) asynchronous?](https://github.com/facebook/react/issues/11527#issuecomment-360199710)
+
 # Forms
 
 - [Formik](https://formik.org/)
@@ -84,7 +88,6 @@ Resources
 # Archive
 
 - [Class component lifecycle diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
-- [RFClarification: why is `setState` asynchronous?](https://github.com/facebook/react/issues/11527)
 - [Does React keep the order for state updates?](https://stackoverflow.com/questions/48563650/does-react-keep-the-order-for-state-updates/48610973)
 - [Using a function in `setState` instead of an object](https://medium.com/@wisecobbler/using-a-function-in-setstate-instead-of-an-object-1f5cfd6e55d1)
 - https://twitter.com/kentcdodds/status/939245496056422401
