@@ -16,6 +16,7 @@
 - https://koukia.ca/how-to-remove-local-untracked-files-from-the-current-git-branch-571c6ce9b6b1
 - [git diverged get remote](https://gist.github.com/scmx/f0cf283f33e5e1ac83946453461b9ff2)
 - https://www.atlassian.com/blog/git/advanced-git-aliases
+- [Rebase by default when doing git pull](https://coderwall.com/p/tnoiug/rebase-by-default-when-doing-git-pull)
 
 **Github**
 
