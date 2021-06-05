@@ -4,6 +4,7 @@
 - Autocompletion/Autosuggestion
   - [AWS-CLI Auto-Completion + FZF + OhMyZSH](https://medium.com/@herryhan2435/using-aws-cli-with-fzf-on-ohmyzsh-ec995ee3784f)
   - [Fish-like autosuggestions for zsh](https://github.com/zsh-users/zsh-autosuggestions)
+  - [Hiding secret keys from shell history](https://medium.com/@prasincs/hiding-secret-keys-from-shell-history-part-1-5875eb5556cc) (use trick "ignore storing commands prefixed by a space")
 
 # Terminology
 
