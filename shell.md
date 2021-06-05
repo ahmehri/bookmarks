@@ -1,7 +1,9 @@
 # ohmyzsh
 
 - https://www.stevenrombauts.be/2018/04/disable-git-prompt-in-oh-my-zsh/
-- [Tab completion](https://medium.com/@herryhan2435/using-aws-cli-with-fzf-on-ohmyzsh-ec995ee3784f)
+- Autocompletion/Autosuggestion
+  - [AWS-CLI Auto-Completion + FZF + OhMyZSH](https://medium.com/@herryhan2435/using-aws-cli-with-fzf-on-ohmyzsh-ec995ee3784f)
+  - [Fish-like autosuggestions for zsh](https://github.com/zsh-users/zsh-autosuggestions)
 
 # Terminology
 
