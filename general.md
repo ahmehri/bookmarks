@@ -40,6 +40,10 @@
 - https://github.com/jxnblk/mdx-deck
 - [The great experience to create slide deck with Markdown](https://marp.app/)
 
+## Drawing
+
+- [Create diagrams and visualizations using text and code](https://mermaid-js.github.io/mermaid/#/)
+
 # Screen Recording
 
 - Currently using: [CleanShot X](https://cleanshot.com/)
