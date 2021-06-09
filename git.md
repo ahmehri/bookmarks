@@ -29,6 +29,8 @@
 
 - [A short story of pruning remote branches](http://www.jamessturtevant.com/posts/Pruning-remote-branches/)
 - [Always prune remote traching branches](http://albertogrespan.com/blog/always-prune-remote-tracking-branches/)
+- [Pruning in Git](https://git-scm.com/docs/git-fetch#_pruning)
+- Pruning remotes will only remove remote-tracking references and not the local branches.
 
 # Rebasing
 
