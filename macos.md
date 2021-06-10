@@ -1,3 +1,5 @@
+# Misc
+
 - https://github.com/nodejs/node-gyp/blob/master/macOS_Catalina.md
 - https://apple.stackexchange.com/questions/136672/how-do-i-require-password-prompt-every-time-i-close-my-macbooks-lid
 - https://support.apple.com/lt-lt/guide/mac-help/mchlp2322/mac
@@ -5,6 +7,10 @@
 - https://filipmolcik.com/macbook-wifi-issue-os-x-keeps-reconnecting/
 - [Is Apple silicon ready](https://isapplesiliconready.com/)
 - https://mattbanderson.com/so-you-hosed-your-mac-os-python-install/ (python, python3)
+
+# How to
+
+- [Homebrew and Git - Wrong language on the command line](https://apple.stackexchange.com/questions/337244/homebrew-and-git-wrong-language-on-the-command-line)
 
 # Apps
 
