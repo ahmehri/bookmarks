@@ -1,18 +1,20 @@
+# Misc
+
 - https://hacks.mozilla.org/2017/05/quantum-up-close-what-is-a-browser-engine/
 - https://forum.vuejs.org/t/problems-setting-session-cookies/4717/3
 - The front vs back of the frontend: https://bradfrost.com/blog/post/frontend-design-react-and-a-bridge-over-the-great-divide/
 
-**jamstack**
+# jamstack
 
 - https://jamstack.org/
 - https://redwoodjs.com/
 
-**Performance**
+# Performance
 
 - https://blog.cloudflare.com/ttfb-time-to-first-byte-considered-meaningles/
 - https://web.dev/long-tasks-devtools/
 
-**Tools**
+# Tools
 
 - http://caniuse.com/#home
 - https://screeps.com/
@@ -59,7 +61,7 @@ CLI
 
 - https://github.com/jakubroztocil/httpie
 
-**Resources**
+# Resources
 
 - https://web.dev/
 - [illustrated.dev](https://illustrated.dev/)
@@ -77,3 +79,4 @@ CLI
 - https://github.com/kamranahmedse/developer-roadmap
 - https://hacks.mozilla.org/
 - https://css-tricks.com/front-end-challenges/
+- [HTTPWTF](https://httptoolkit.tech/blog/http-wtf/)
