@@ -1,12 +1,11 @@
+# Misc
+
 - https://1loc.dev/
 - JS operator lookup: https://joshwcomeau.com/operator-lookup/
 - [WTFJS](https://github.com/denysdovhan/wtfjs)
-
----
-
 - [How to monitor function creation](https://nikgrozev.com/2019/04/07/reacts-usecallback-and-usememo-hooks-by-example/)
 
-**Shadowing**
+# Shadowing
 
 I was wrong, shadowing doesn't have to do with whether we're using `var` or `const`/`let`. Shadowing will occur in both cases and it will result in [two problems](https://eslint.org/docs/rules/no-shadow#top)
 
@@ -23,24 +22,24 @@ And again, it's not as bad as causing confusion while reading the code. The fact
   }, [dataLocale]);
 ```
 
-**Purist**
+# Purist
 
 - http://blog.cleancoder.com/uncle-bob/2016/05/01/TypeWars.html
 
-**Functional JS**
+# Functional JS
 
 - http://2ality.com/2017/11/currying-in-js.html
 - https://github.com/getify/Functional-Light-JS
 - https://medium.com/making-internets/why-using-chain-is-a-mistake-9bc1f80d51ba
 
-**Numbers Encoding**
+# Numbers Encoding
 
 - http://2ality.com/2012/04/number-encoding.html
 - http://0.30000000000000004.com/
 - https://docs.google.com/presentation/d/1apPbAiv_-mJF35P31IjaII8UA6TwSynCA_zhfDEmgOE/edit#slide=id.p
 - https://en.wikipedia.org/wiki/IEEE_754
 
-**Tools**
+# Tools
 
 Fake data generators
 
