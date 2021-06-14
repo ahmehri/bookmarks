@@ -22,7 +22,7 @@
 - https://highlyopinionated.co/swish/
 - https://github.com/leits/MeetingBar
 - [API tool/HTTP client](https://paw.cloud/)
-- Github nofitications on your menu bar: https://www.gitify.io/
+
 
 # Commands
 

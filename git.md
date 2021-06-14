@@ -22,8 +22,15 @@
 
 # Github
 
+## Misc
+
 - [Run your GitHub Actions locally](https://github.com/nektos/act)
+
+## Tools
+
+- [Github nofitications on your menu bar](https://www.gitify.io/)
 - [The command palette for GitHub](https://jumpcat.dev/)
+- [Octobox, Untangle your GitHub Notifications](https://octobox.io/)
 
 # Pruning remote branches
 
