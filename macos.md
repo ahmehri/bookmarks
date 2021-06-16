@@ -8,7 +8,11 @@
 - [Is Apple silicon ready](https://isapplesiliconready.com/)
 - https://mattbanderson.com/so-you-hosed-your-mac-os-python-install/ (python, python3)
 - [Homebrew and Git - Wrong language on the command line](https://apple.stackexchange.com/questions/337244/homebrew-and-git-wrong-language-on-the-command-line)
+
+# Printing
+
 - [Mac: How to change default printer settings](https://support.pirateship.com/en/articles/2799085-mac-how-to-change-default-printer-settings)
+- [Here Are Two Ways To Print Multiple Files At Once In MacOS](https://www.alphr.com/print-multiple-files-mac/)
 
 
 # Apps
