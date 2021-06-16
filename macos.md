@@ -7,10 +7,9 @@
 - https://filipmolcik.com/macbook-wifi-issue-os-x-keeps-reconnecting/
 - [Is Apple silicon ready](https://isapplesiliconready.com/)
 - https://mattbanderson.com/so-you-hosed-your-mac-os-python-install/ (python, python3)
-
-# How to
-
 - [Homebrew and Git - Wrong language on the command line](https://apple.stackexchange.com/questions/337244/homebrew-and-git-wrong-language-on-the-command-line)
+- [Mac: How to change default printer settings](https://support.pirateship.com/en/articles/2799085-mac-how-to-change-default-printer-settings)
+
 
 # Apps
 
