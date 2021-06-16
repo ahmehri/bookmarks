@@ -28,7 +28,7 @@
 
 ## Tools
 
-- [Github nofitications on your menu bar](https://www.gitify.io/)
+- [Github nofitications on your menu bar: Gitify](https://www.gitify.io/)
 - [The command palette for GitHub](https://jumpcat.dev/)
 - [Octobox, Untangle your GitHub Notifications](https://octobox.io/)
 
