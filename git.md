@@ -29,6 +29,7 @@
 ## Tools
 
 - [Github nofitications on your menu bar: Gitify](https://www.gitify.io/)
+- [Browser extension - Get notified about new GitHub notifications: notifier-for-github](https://github.com/sindresorhus/notifier-for-github)
 - [The command palette for GitHub](https://jumpcat.dev/)
 - [Octobox, Untangle your GitHub Notifications](https://octobox.io/)
 
