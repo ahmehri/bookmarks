@@ -24,10 +24,14 @@
 
 ## Misc
 
-- [Run your GitHub Actions locally](https://github.com/nektos/act)
+- [GitHub public roadmap](https://github.com/github/roadmap)
+- [GitHub support community](https://github.community/)
+- [GitHub Feedback discussions](https://github.com/github/feedback/discussions)
+- [GitHub blog](https://github.blog/) 
 
 ## Tools
 
+- [Run your GitHub Actions locally](https://github.com/nektos/act)
 - [Github nofitications on your menu bar: Gitify](https://www.gitify.io/)
 - [Browser extension - Get notified about new GitHub notifications: notifier-for-github](https://github.com/sindresorhus/notifier-for-github)
 - [The command palette for GitHub](https://jumpcat.dev/)
