@@ -1,10 +1,11 @@
+# Misc
+
 - https://glebbahmutov.com/blog/mock-graphql-with-lunar-in-cypress-tests/
 
-**Tools**
+# Tools
 
 - https://github.com/bahmutov/as-a
-
-----
+- [Mailosaur Cypress Commands: Test email and SMS messages with Cypress](https://github.com/mailosaur/cypress-mailosaur)
 
 # Testing Strategies
 
