@@ -28,6 +28,7 @@
 - [GitHub support community](https://github.community/)
 - [GitHub Feedback discussions](https://github.com/github/feedback/discussions)
 - [GitHub blog](https://github.blog/) 
+- [Signing commits](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification/signing-commits)
 
 ## Tools
 
