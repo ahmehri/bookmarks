@@ -19,7 +19,7 @@
 
 - Productivity: https://www.alfredapp.com/ VS https://raycast.com/
 - https://contexts.co/
-- https://gpgtools.org/
+- [GPGTools, GPG Suite, One simple package with everything you need, to protect your emails and files](https://gpgtools.org/)
 - https://awaremac.com/
 - https://muzzleapp.com/
 - https://highlyopinionated.co/swish/
