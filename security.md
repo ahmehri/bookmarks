@@ -1,3 +1,7 @@
+# Misc
+
+- [Hasso-Plattner-Institut (check if your data was leaked)](https://sec.hpi.de/ilc/search)
+
 # Authentication
 
 ## Technologies
