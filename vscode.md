@@ -1,3 +1,5 @@
+# Misc
+
 - Select next occurance keyboard shortcut: cmd + d
 - [Sync settings, extensions, etc.](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 - [Performance issues and how to troubleshoot them](https://github.com/Microsoft/vscode/wiki/Performance-Issues)
@@ -6,7 +8,7 @@
 - [Visual Studio Code tips and tricks](https://channel9.msdn.com/Events/Build/2020/BOD103?ocid=AID3012654&WT.mc_id=build2020-azuredevtips-micrum)
 - ["electron_node server.js" high cpu usage](https://github.com/microsoft/vscode/issues/88854)
 
-**Automatic Type Acquisition**
+# Automatic Type Acquisition
 
 This is a very powerful feature, I followed the [guidelines](https://code.visualstudio.com/docs/nodejs/working-with-javascript#_typings-and-automatic-type-acquisition) but without any luck. I had the following `tsconfig.json` config.
 
@@ -53,7 +55,7 @@ After checking the typescript server log, when using both `tsconfig.json` and `j
 }
 ```
 
-**macos vscode code helper cpu 100**
+# macos vscode code helper cpu 100
 
 The problem is caused by code helper.
 
@@ -61,7 +63,7 @@ TODO:
 
 - [ ] After inspecting processes as described [here](https://github.com/Microsoft/vscode/wiki/Performance-Issues), `electron_node tsserver` extension has a high usage of cpu, disable it and test
 
-**Resources**
+# Resources
 
 - [vscode can do that](https://vscodecandothat.com/)
 - [microsoft/vscode-recipes](https://github.com/microsoft/vscode-recipes)
