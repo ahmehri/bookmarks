@@ -3,6 +3,7 @@
 - https://1loc.dev/
 - JS operator lookup: https://joshwcomeau.com/operator-lookup/
 - [WTFJS](https://github.com/denysdovhan/wtfjs)
+- [JS is weird](https://jsisweird.com/)
 - [How to monitor function creation](https://nikgrozev.com/2019/04/07/reacts-usecallback-and-usememo-hooks-by-example/)
 
 # Shadowing
