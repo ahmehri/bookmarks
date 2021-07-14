@@ -1,3 +1,3 @@
-**Visual Testing**
+# Visual Testing
 
 - https://applitools.com/

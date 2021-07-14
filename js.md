@@ -49,3 +49,7 @@ Fake data generators
 - https://github.com/boo1ean/casual
 - https://github.com/chancejs/chancejs
 - https://github.com/json-schema-faker/json-schema-faker
+
+# Testing
+
+- [goldbergyoni/javascript-testing-best-practices (Comprehensive and exhaustive JavaScript & Node.js testing best practices (June 2021))](https://github.com/goldbergyoni/javascript-testing-best-practices)
